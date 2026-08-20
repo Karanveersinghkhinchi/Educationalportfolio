@@ -1,0 +1,17 @@
+export const COLORS = {
+  bg: '#F8F7F4',
+  bgAlt: '#FFFFFF',
+  bgCard: '#FFFFFF',
+  bgDark: '#0D0D0D',
+  text: '#0D0D0D',
+  textMid: '#3A3A3A',
+  muted: '#888888',
+  mutedLight: '#BBBBBB',
+  accent: '#B8902A',
+  accentLight: 'rgba(184,144,42,0.1)',
+  accentBorder: 'rgba(184,144,42,0.3)',
+  border: 'rgba(0,0,0,0.07)',
+  borderMid: 'rgba(0,0,0,0.14)',
+  shadow: '0 2px 20px rgba(0,0,0,0.06)',
+  shadowHover: '0 12px 48px rgba(0,0,0,0.14)',
+};
